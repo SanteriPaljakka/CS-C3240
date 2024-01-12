@@ -1,5 +1,6 @@
 # CS-C3240 Project
-Machine learning project from the 2023 fall basic course by Paljakka and Alikärri
+Machine learning project from the 2023 fall basic course by Paljakka and Alikärri.
+Link to the project: https://github.com/mikkomakkoe/ML-project
 
 ## Introduction
 
